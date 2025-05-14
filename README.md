@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-Youngjin Park
+## Youngjin Park 👋
 - My research interests include Uncertainty in Deep Learning for real-world applications and Quant.
 - Affiliation: Affiliated Research Institute, DS (DeepSeers)
 - E-mail: youngjpark@deepseers.com, kooiuh89@gmail.com
